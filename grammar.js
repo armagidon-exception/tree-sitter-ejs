@@ -1,5 +1,5 @@
 module.exports = grammar({
-  name: 'embedded_template',
+  name: 'ejs',
   extras: $ => [],
   rules: {
     template: $ => repeat(choice(

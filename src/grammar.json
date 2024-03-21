@@ -1,5 +1,5 @@
 {
-  "name": "embedded_template",
+  "name": "ejs",
   "rules": {
     "template": {
       "type": "REPEAT",
@@ -238,4 +238,3 @@
   "inline": [],
   "supertypes": []
 }
-
